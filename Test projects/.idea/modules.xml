@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aug-Projects-lcc-java-fp-whisperer-1.1.0.iml" filepath="$PROJECT_DIR$/.idea/modules/Aug-Projects-lcc-java-fp-whisperer-1.1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hb-onetoone-uni/Hb-onetoone-uni.iml" filepath="$PROJECT_DIR$/../Hb-onetoone-uni/Hb-onetoone-uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HibProj/HibProj.iml" filepath="$PROJECT_DIR$/../HibProj/HibProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate-tutorial/Hibernate-tutorial.iml" filepath="$PROJECT_DIR$/Hibernate-tutorial/Hibernate-tutorial.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/java-unit-testing-junit/materials/2-junit-m2-basic-exercise-files/demos/after/ProteinTracker/ProteinTracker.iml" filepath="$USER_HOME$/Downloads/java-unit-testing-junit/materials/2-junit-m2-basic-exercise-files/demos/after/ProteinTracker/ProteinTracker.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/java-unit-testing-junit/materials/2-junit-m2-basic-exercise-files/demos/after/ProteinTrackerTests/ProteinTrackerTests.iml" filepath="$USER_HOME$/Downloads/java-unit-testing-junit/materials/2-junit-m2-basic-exercise-files/demos/after/ProteinTrackerTests/ProteinTrackerTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test projects.iml" filepath="$PROJECT_DIR$/Test projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lcc-java-fp-whisperer-1.1.0.iml" filepath="$PROJECT_DIR$/.idea/modules/lcc-java-fp-whisperer-1.1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reviews.iml" filepath="$PROJECT_DIR$/.idea/modules/reviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reviews_main.iml" filepath="$PROJECT_DIR$/.idea/modules/reviews_main.iml" group="reviews" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reviews_test.iml" filepath="$PROJECT_DIR$/.idea/modules/reviews_test.iml" group="reviews" />
+    </modules>
+  </component>
+</project>

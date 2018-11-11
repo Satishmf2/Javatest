@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/reviews" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/reviews" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../lcc-java-fp-whisperer-1.1.0" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../lcc-java-fp-whisperer-1.1.0" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$USER_HOME$/Downloads/lcc-java-fp-whisperer-1.1.0" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Downloads/lcc-java-fp-whisperer-1.1.0" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

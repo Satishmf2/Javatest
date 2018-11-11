@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ProteinTracker">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../ProteinTracker" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../ProteinTracker/src" />
+    </SOURCES>
+  </library>
+</component>

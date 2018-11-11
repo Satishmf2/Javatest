@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ehcache">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Hb-onetoone-uni/lib/optional/ehcache/hibernate-ehcache-5.3.5.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Hb-onetoone-uni/lib/optional/ehcache/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Hb-onetoone-uni/lib/optional/ehcache/ehcache-2.10.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
